@@ -124,5 +124,5 @@ python-docx==0.8.11
 faiss-cpu==1.7.4
 sentence-transformers
 langgraph==0.2.0
-
+openai
 
