@@ -120,3 +120,5 @@ wcwidth==0.2.13
 XlsxWriter==3.2.0
 yarl==1.17.1
 zipp==3.21.0
+python-docx==0.8.11
+
