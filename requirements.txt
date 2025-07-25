@@ -122,7 +122,7 @@ yarl==1.17.1
 zipp==3.21.0
 python-docx==0.8.11
 faiss-cpu==1.7.4
-sentence-transformers==2.2.2
+sentence-transformers
 langgraph==0.2.0
 
 
